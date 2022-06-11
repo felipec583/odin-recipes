@@ -1,21 +1,27 @@
-# odin-recipes
-First TOP project
+# Odin Recipes              
 
--Recipe website made with HTML
+## First TOP project
+***
+  <br>
+  
+![Odin Recipe](https://raw.githubusercontent.com/felipec583/odin-recipes/main/img/website.JPG "Recipe Website")
 
-Elements used to build the website project:
 
-<a> Anchor tag
-<img> Image tag
-<br> Line break
-<p> Paragraph tag
-<span> in-line span tag
-<ul> unordered list tag
-<ol> ordered list tag
-<li> list tag
-<h1> level 1 heading tag
-<h2> level 2 heading tag
-<h3> level 3 heading tag
-<strong> highlighting and bold tag
+**Recipe website made with HTML**
 
-06-11-2022
+> Elements used to build the website project:
+
+1. ```<a>``` Anchor tag
+2. ```<img>``` Image tag
+3. ```<br>``` Line break
+4. ```<p>``` Paragraph tag
+5. ```<span>``` in-line span tag
+6. ```<ul>``` unordered list tag
+7. ```<ol>``` ordered list tag
+8. ```<li>``` list tag
+9. ```<h1>``` level 1 heading tag
+10. ```<h2>``` level 2 heading tag
+11. ```<h3>``` level 3 heading tag
+12. ```<strong>``` highlighting and bold tag
+
+>06-11-2022
